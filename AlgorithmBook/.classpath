@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry excluding="Context/|Fundamentals/|Graphs/|Searching/|Sorting/|Strings/|ClassHomeWork/" kind="src" path="src"/>
+	<classpathentry kind="src" path="src/Strings"/>
+	<classpathentry kind="src" path="src/Sorting"/>
+	<classpathentry kind="src" path="src/Searching"/>
+	<classpathentry kind="src" path="src/Graphs"/>
+	<classpathentry kind="src" path="src/Fundamentals"/>
+	<classpathentry kind="src" path="src/Context"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
